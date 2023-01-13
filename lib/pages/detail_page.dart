@@ -111,4 +111,4 @@ class DetailPage extends StatelessWidget {
       ),
     );
   }
-}
+} // we
